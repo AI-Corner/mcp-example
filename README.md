@@ -16,6 +16,7 @@ This project contains 6 distinct examples of MCP servers, ranging from simple ca
 | 4 | **[Excel Automation](./4-excel-mcp-server)** | Query and manipulate Excel spreadsheet data. | Python |
 | 5 | **[PowerPoint Creator](./5-powerpoint-mcp-server)** | Generate presentations based on AI-generated content. | Python / UV |
 | 6 | **[YouTube Insights](./6-youtube-data-mcp-server)** | Search videos and fetch channel transcripts/data. | Node.js / YouTube API |
+| 7 | **[Perplexity Search](./7-perplexity-mcp-server)** | High-quality real-time web search. | Python / Perplexity API |
 
 ---
 
